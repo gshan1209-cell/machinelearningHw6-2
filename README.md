@@ -1,4 +1,6 @@
 # Startup Profit Prediction
+![alt text](Kaggle50.png)
+## Demo網址:https://machinelearninghw6-2.streamlit.app/
 
 ## 1. Project Overview
 本專案使用 Kaggle 50 Startups dataset，依照 CRISP-DM 六大步驟，建立 Random Forest Regression 模型 (並結合 Scikit-Learn Pipeline) 來預測新創公司利潤 (Profit)。這是一份從資料處理、模型建立到網頁與 API 部署的完整專案。
